@@ -1,0 +1,16 @@
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\DALTests.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\DALTests.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\DAL.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\Model.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\Util.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\DAL.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\Model.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\Util.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\obj\Debug\DALTests.csprojResolveAssemblyReference.cache
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\obj\Debug\DALTests.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\obj\Debug\DALTests.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\DALTests\bin\Debug\Qiniu.dll

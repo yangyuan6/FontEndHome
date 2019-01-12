@@ -1,0 +1,17 @@
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\BLLTests.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\BLLTests.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\BLL.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\Model.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\DAL.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\Util.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\BLL.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\Model.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\DAL.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\Util.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\obj\Debug\BLLTests.csprojResolveAssemblyReference.cache
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\obj\Debug\BLLTests.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLLTests\obj\Debug\BLLTests.pdb

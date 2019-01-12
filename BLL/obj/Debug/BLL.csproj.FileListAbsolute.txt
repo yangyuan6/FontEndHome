@@ -1,0 +1,14 @@
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\BLL.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\BLL.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\DAL.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\Model.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\Util.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\DAL.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\Model.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\Util.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\obj\Debug\BLL.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\obj\Debug\BLL.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\FontEndHomeAsp\BLL\bin\Debug\Qiniu.dll
