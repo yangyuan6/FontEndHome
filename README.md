@@ -6,7 +6,7 @@
 
 ### 0x01 系统截图
 - 登录
-![Image text](https://raw.githubusercontent.com/imu-yangyuan/FontEndHome/master/screenshot/01.jpg)
+![Image text](https://raw.githubusercontent.com/imu-yangyuan/FontEndHome/master/screenshot/01.png)
 
 - 注册
 
